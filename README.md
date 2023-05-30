@@ -1,5 +1,4 @@
 # test-design-documentation
-# test-design-documentation
 
 ##  🔗 Task1. Test design techniques
 <p>
